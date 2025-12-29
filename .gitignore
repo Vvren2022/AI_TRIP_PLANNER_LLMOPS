@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Environment and local artifacts
+.env
+.env.*
+my_graph.png
+uv.lock
+application photos/
